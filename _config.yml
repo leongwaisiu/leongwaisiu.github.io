@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : " "
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Leong Wai Siu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "leongwaisiu/leongwaisiu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Leong Wai Siu"
+  name             : " "
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : " "
   location         : "Harshbarger 308"
   employer         : "The University of Arizona"
   uri              : # URL
