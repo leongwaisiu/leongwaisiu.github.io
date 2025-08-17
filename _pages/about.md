@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About
+Introduction
 ------
 I am Chris Siu, a research scientist in the Department of Hydrology and Atmospheric Sciences at the University of Arizona.  I am working with Dr. Xubin Zeng and Dr. Armin Sorooshian.  My current research is focused on better understanding aerosol-cloud interactions.  I got my PhD in atmospheric sciences at Texas A&M University.  
 
