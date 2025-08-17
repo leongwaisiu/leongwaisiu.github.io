@@ -9,7 +9,8 @@
 
 main:
   - title: "Home"
-    url: /pages/about.md
+    url: /pages/
+    
   - title: "Publications"
     url: /publications/
 
