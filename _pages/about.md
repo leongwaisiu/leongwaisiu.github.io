@@ -13,6 +13,7 @@ I am Chris Siu, a research scientist in the Department of Hydrology and Atmosphe
 
 News
 ------
+- October 2025: The paper "On the Physicochemical Differences between Cloud Droplet Residual Particles and Below-Cloud Particles over the Northwest Atlantic" was published in ACS ES&T Air.
 - August 2025: The paper "The NASA ACTIVATE Mission" was published in Bulletin of the American Meteorological Society.
 - February 2025: The paper "Sensitivity of aerosol and cloud properties to coupling strength of marine boundary layer clouds over the northwest Atlantic" was published in Atmospheric Chemistry and Physics.
 
