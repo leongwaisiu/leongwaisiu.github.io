@@ -13,7 +13,7 @@ I am Chris Siu, a research scientist in the Department of Hydrology and Atmosphe
 
 News
 ------
-- November 2025: The paper "Correct Temporal and Spatial Averaging of Atmospheric and Surface Variables for Weather and Climate Studies" was published in Bulletin of the American Meteorological Society [URL][https://doi.org/10.1175/BAMS-D-25-0164.1].
+- November 2025: The paper "Correct Temporal and Spatial Averaging of Atmospheric and Surface Variables for Weather and Climate Studies" was published in Bulletin of the American Meteorological Society [doi](https://doi.org/10.1175/BAMS-D-25-0164.1).
 - October 2025: The paper "On the Physicochemical Differences between Cloud Droplet Residual Particles and Below-Cloud Particles over the Northwest Atlantic" was published in ACS ES&T Air.
 - August 2025: The paper "The NASA ACTIVATE Mission" was published in Bulletin of the American Meteorological Society.
 - February 2025: The paper "Sensitivity of aerosol and cloud properties to coupling strength of marine boundary layer clouds over the northwest Atlantic" was published in Atmospheric Chemistry and Physics.
